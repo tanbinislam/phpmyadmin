@@ -14,11 +14,11 @@
 -- --------------------------------------------------------
 
 --
--- Database : `phpmyadmin`
+-- Database : `db_pma`
 --
-ALTER DATABASE `phpmyadmin`
+ALTER DATABASE `db_pma`
   DEFAULT CHARACTER SET utf8 COLLATE utf8_bin;
-USE phpmyadmin;
+USE db_pma;
 
 -- --------------------------------------------------------
 

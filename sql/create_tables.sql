@@ -15,11 +15,11 @@
 -- --------------------------------------------------------
 
 --
--- Database : `phpmyadmin`
+-- Database : `db_pma`
 --
-CREATE DATABASE IF NOT EXISTS `phpmyadmin`
+CREATE DATABASE IF NOT EXISTS `db_pma`
   DEFAULT CHARACTER SET utf8 COLLATE utf8_bin;
-USE phpmyadmin;
+USE db_pma;
 
 -- --------------------------------------------------------
 
@@ -28,7 +28,7 @@ USE phpmyadmin;
 --
 -- (activate this statement if necessary)
 -- GRANT SELECT, INSERT, DELETE, UPDATE, ALTER ON `phpmyadmin`.* TO
---    'pma'@localhost;
+--    'kraft'@localhost;
 
 -- --------------------------------------------------------
 
